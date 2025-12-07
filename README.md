@@ -9,10 +9,10 @@ Heres the image of the entire hackpad, sorry about the cyan keycap tops the 3d m
 
 
 
-## Schematic
+## PCB
 <img width="686" height="381" alt="Schematic Screenshot" src="https://github.com/user-attachments/assets/68e59bfd-fb02-467a-894c-ddac83e155d3" />
 
-#PCB
+
 <img width="524" height="678" alt="PCB Screenshot" src="https://github.com/user-attachments/assets/c79ea462-9104-4683-bc26-6f99494e1ac8" />
 
 # Assembly

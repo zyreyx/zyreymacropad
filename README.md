@@ -24,11 +24,17 @@ One M3x16mm screw will be placed into each red circled hole
 
 PCB
 9 MX-Style switches
+
 1 Seeed XIAO RP2040
+
 9 Through-hole 1N4148 Diodes
+
 9 Blank DSA keycaps
+
 4 M3x16mm screws
+
 3D Printed Case
+
 
 
 # Sorry its not very advanced, this was my first project but I'm proud of it (:
